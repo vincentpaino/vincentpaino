@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Paino
-- 👀 I’m interested in AI/ML
+- 👀 I’m interested in AI/ML & Big Data
 - 🌱 I’m currently learning scikit-learn and various machine learning algorithms!
 - 💞️ I’m looking to collaborate on new projects with processing large datasets
 - 📫 How to reach me: vincentpaino11@gmail.com
